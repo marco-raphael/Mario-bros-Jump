@@ -12,7 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - CSS
 - JavaScript
 
-#🚀 Como consumir o projeto
+# 🚀 Como consumir o projeto
 
 O projeto foi hospedado usando Surge.sh, e pode ser consumido ultilizando o link abaixo:
 
