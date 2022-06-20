@@ -1,5 +1,4 @@
-# <h1 align="center"> Mario-bros-Jump </h1>
-# <img height="200px" width="100%" src="https://cdn.wallpapersafari.com/79/67/Qg4762.jpg" alt="mario bros wallpaper"/>
+# <h1 align="center"> Mario Bros Jump </h1>
 
 
 # 💻 Sobre o projeto
