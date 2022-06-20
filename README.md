@@ -7,7 +7,7 @@
 ### Projeto foi desenvolvido com base em um tutorial no YouTube, sendo adicionado algumas modificações, como o botão de reinício!!
 
 # 🛠 Tecnologias
- As seguintes ferramentas foram usadas na construção do projeto:
+### As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML
 - CSS
