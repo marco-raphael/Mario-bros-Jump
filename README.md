@@ -1,6 +1,6 @@
 # <h1 align="center"> Mario Bros Jump </h1>
 <p align="center">
-  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mario_Series_Logo.svg/1280px-Mario_Series_Logo.svg.png">
+  <img width="200" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mario_Series_Logo.svg/1280px-Mario_Series_Logo.svg.png">
 </p>
 
 # 💻 Sobre o projeto
