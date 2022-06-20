@@ -1,5 +1,7 @@
 # <h1 align="center"> Mario Bros Jump </h1>
-<img align="center" width="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mario_Series_Logo.svg/1280px-Mario_Series_Logo.svg.png"/>
+<p align="center">
+  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mario_Series_Logo.svg/1280px-Mario_Series_Logo.svg.png">
+</p>
 
 # 💻 Sobre o projeto
 #### MarioBrosJump - é um mini-game Endless runner usando o tema do Mario Bros. O objetivo do game é bastante simples, pular a tempo de não encostar nos obstáculos que passam pela tela.
