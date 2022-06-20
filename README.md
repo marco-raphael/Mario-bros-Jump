@@ -2,7 +2,7 @@
 ## Link Surge: https://astonishing-sail.surge.sh/
 
 # 💻 Sobre o projeto
-#### MarioBrosJump - é um mini-game Endless runner usando o tema do Mario Bros.
+#### MarioBrosJump - é um mini-game Endless runner usando o tema do Mario Bros. O objetivo do game é bastante simples, pular a tempo de não encostar nos obstáculos que passam pela tela.
 #### Projeto foi desenvolvido com base em um tutorial no YouTube, sendo adicionado algumas modificações, como o botão de reinício!!
 
 # 🛠 Tecnologias
@@ -14,7 +14,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 # 🚀 Como consumir o projeto
 
-O projeto foi hospedado usando Surge.sh, e pode ser consumido ultilizando o link abaixo:
+#### Modo de jogar é bastante simples, precisa apenas pressionar qualquer botão do teclado para fazer o Mario pular!!
+
+#### O projeto foi hospedado usando Surge.sh, e pode ser consumido ultilizando o link abaixo:
 
 ### Link Surge: https://astonishing-sail.surge.sh/
 
