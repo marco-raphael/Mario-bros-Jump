@@ -1,5 +1,7 @@
 # <h1 align="center"> Mario-bros-Jump </h1>
-# <img height="200px" width="100%" overflow="hidden" src="https://cdn.wallpapersafari.com/79/67/Qg4762.jpg" alt="mario bros wallpaper"/>
+# <img height="200px" width="100%" src="https://cdn.wallpapersafari.com/79/67/Qg4762.jpg" alt="mario bros wallpaper"/>
+
+GitHub language count Repository size Siga no Twitter GitHub last commit License Stargazers Feito pela Rocketseat Stargazers
 
 # 💻 Sobre o projeto
 #### MarioBrosJump - é um mini-game Endless runner usando o tema do Mario Bros. O objetivo do game é bastante simples, pular a tempo de não encostar nos obstáculos que passam pela tela.
