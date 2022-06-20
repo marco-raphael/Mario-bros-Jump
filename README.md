@@ -1,4 +1,4 @@
- <h1 align="center"> Mario-bros-Jump </h1>
+# <h1 align="center"> Mario-bros-Jump </h1>
 ## Link Surge: https://astonishing-sail.surge.sh/
 
 ![image](https://user-images.githubusercontent.com/91287071/174610613-7ebab296-2397-4f73-a90d-e1ffd8bd1a89.png)
