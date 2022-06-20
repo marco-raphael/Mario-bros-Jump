@@ -1,4 +1,4 @@
-### <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+### <img margin="0 auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 # <h1 align="center"> Mario-bros-Jump </h1>
 # <img height="200px" width="100%" src="https://cdn.wallpapersafari.com/79/67/Qg4762.jpg" alt="mario bros wallpaper"/>
 
