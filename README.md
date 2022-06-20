@@ -14,7 +14,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 # 🚀 Como consumir o projeto
 
-#### Modo de jogar é bastante simples, precisa apenas pressionar qualquer botão do teclado para fazer o Mario pular!!
+Modo de jogar é bastante simples, precisa apenas pressionar qualquer botão do teclado para fazer o Mario pular!! E o reinicio se dá, por um clique no cogumelo verde abaixo da janela principal do game!!
 
 #### O projeto foi hospedado usando Surge.sh, e pode ser consumido ultilizando o link abaixo:
 
